@@ -1,0 +1,12 @@
+Variable Name,Type,Description
+PPT_ID,factor,Participant ID code
+CHILD_GENDER,factor,Child's gender
+CHILD_AGE,numeric,Child's age in years
+MOTHER_AGE,numeric,Mother's age in years
+FATHER_AGE,numeric,Father's age in years
+VOCAB_SCORE,numeric,Child's vocabulary score (higher score = larger vocabulary)
+COMP_SCORE,numeric,Child's comprehension score
+TOTAL_RECALL_1,numeric,"Total words recalled, day 1"
+TOTAL_RECALL_2,numeric,"Total words recalled, day 2"
+TOTAL_RECOG_1,numeric,"Total words recognised, day 1"
+TOTAL_RECOG_2,numeric,"Total words recognised, day 2"

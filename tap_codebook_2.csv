@@ -1,0 +1,12 @@
+﻿Variable Name,Type,Description
+PPT_ID,factor,Participant ID code
+CHILD_GENDER,factor,Child's gender
+CHILD_AGE,numeric,Child's age in years
+MOTHER_AGE,numeric,Mother's age in years
+FATHER_AGE,numeric,Father's age in years
+FATHER_SUPP,numeric,"Father's expressive suppression score (min 4, max 20)"
+FATHER_REAPP,numeric,"Father's cognitive reappraisal score (min 6, max 30)"
+MOTHER_SUPP,numeric,"Mother's expressive suppression score (min 4, max 20)"
+MOTHER_REAPP,numeric,"Mother's cognitive reappraisal score (min 6, max 30)"
+CHILD_REAPP,numeric,"Child's cognitive reappraisal score (min 6, max 30)"
+CHILD_SUPP,numeric,"Child's expressive suppression score (min 4, max 20)"
