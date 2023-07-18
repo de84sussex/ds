@@ -1,0 +1,7 @@
+Variable Name,Description
+ppt_id, "Participant ID number (randomised alphanumeric)"
+ppt_gender, "4 levels: male, female, agender/non-binary, prefer not to say (pnts)"
+ppt_age, "Participant age in years"
+ati_rstudio, "Mean score on the Affinity for Technology Interaction (ATI) scale asking specifically about RStudio. Higher scores indicate greater affininty, with a minimum of 1 and a maximum of 6."
+self_eff, "Mean score on the Utilising Computer Software subscale of the Self-Efficacy in Statistical Practice scale. Higher scores indicate greater self-efficacy, with a minimum of 1 and maximum of 11."
+escas_u,"	Mean score on the Coding Confidence subscale of the Elementary Student Coding Attitudes Survey - University. Higher scores indicate greater confidence, with a minimum of 1 and a maximum of 6."
