@@ -1,0 +1,8 @@
+label,comment
+General,Well done on submitting your first TAP on this module!
+Code,Your code is generally really good - great work.
+CIs,Make sure to include confidence intervals in your tables.
+Incomplete Work,"Well done for attempting the TAP assessment. Some of the code and written answers were missing so I'm not able to comment on those aspects. In the future, make sure to get in touch with the teaching team early on to get help with your TAP and the coding and statistics content of this module."
+p values,"In the future, make sure to carefully review your results so you understand what information is included in the output of your code. Also, review what statistical significance means and how to interpret and report p values."
+Scientific Notation,"Make sure to round values and ps sensibly, for example, p < .001 rather than p < 2.2e-16."
+Succinct M/SDs,"Report your means and SDs more succinctly in the future, for example: (M = xx, SD = xx)."
