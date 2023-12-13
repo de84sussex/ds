@@ -1,10 +1,10 @@
 label,comment
-Well Done!,Well done on submitting your first TAP on this module!
-Great Code,Your code is generally really good - great work.
-Missing Table CIs,Make sure to include confidence intervals in your tables in the future.
-Incomplete TAP,"Well done for attempting the TAP assessment. Some of the code and written answers were missing so I'm not able to comment on those aspects. In the future, make sure to get in touch with the teaching team early on to get help with your TAP and the coding and statistics content of this module."
-Incorrect ps Interpretation/Reporting,"In the future, make sure to carefully review your results so you understand what information is included in the output of your code. Also, review what statistical significance means and how to interpret and report p values."
-Scientific Notation,"Make sure to round values and ps sensibly, for example, p < .001 rather than p < 2.2e-16."
-Giving Statisticial Definitions,"Your description of the statistical result shows that you understand what the result is telling you, which is good. In future reports, you don't need to include an explanation of the statistical principles behind the test you're doing, unless you are conducting a novel or uncommon test (which is not the case here). Instead, focus on explaining what this result means in context."
-Reporting M/SDs Succinctly,"Report your means and SDs more succinctly in the future, for example: (M = xx, SD = xx)."
-Missing SDs,Remember to include the standard deviation of each mean in the future.
+"Well Done!","Well done on submitting your first TAP on this module!"
+"Great Code","Your code is generally really good - great work."
+"Missing Table CIs","Make sure to include confidence intervals in your tables in the future."
+"Incomplete TAP","Well done for attempting the TAP assessment. Some of the code and written answers were missing so I'm not able to comment on those aspects. In the future, make sure to get in touch with the teaching team early on to get help with your TAP and the coding and statistics content of this module."
+"Incorrect ps Interpretation/Reporting","In the future, make sure to carefully review your results so you understand what information is included in the output of your code. Also, review what statistical significance means and how to interpret and report p values."
+"Scientific Notation","Make sure to round values and ps sensibly, for example, p < .001 rather than p < 2.2e-16."
+"Giving Statisticial Definitions","Your description of the statistical result shows that you understand what the result is telling you, which is good. In future reports, you don't need to include an explanation of the statistical principles behind the test you're doing, unless you are conducting a novel or uncommon test (which is not the case here). Instead, focus on explaining what this result means in context."
+"Reporting M/SDs Succinctly","Report your means and SDs more succinctly in the future, for example: (M = xx, SD = xx)."
+"Missing SDs","Remember to include the standard deviation of each mean in the future."
